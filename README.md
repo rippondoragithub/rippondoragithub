@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my repository on python and data analysis projects! This collection highlights my proficiency in Python programming and data analysis through various hands-on projects.
 
 <!--
 **rippondoragithub/rippondoragithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
