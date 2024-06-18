@@ -6,4 +6,6 @@ author:
 description: "A diverse collection of projects showcasing programming and data analysis skills"
 
 # Build settings
-remote_theme: jekyll/cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
