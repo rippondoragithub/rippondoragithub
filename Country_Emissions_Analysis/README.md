@@ -25,4 +25,4 @@ The dataset used in this project includes carbon emissions from countries around
 
 ## Usage 
 
-To run this analysis, open the 'country_emissions_analysis.ipynb' notebook and execute the cells.
+To run this analysis, open the 'Country Emissions Analysis.ipynb' notebook and execute the cells.
