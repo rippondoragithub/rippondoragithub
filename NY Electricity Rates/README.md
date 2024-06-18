@@ -14,8 +14,8 @@ This project take residential electricity rates and makes a heat map of electric
 The dataset used in this project includes United States zip codes and their associated residential, industrial and commericial electricity rates.
 
 ## Methodology
-**Data Cleaning**: Extracted New York data and grouped it by county.
-**EDA**: Determined the counties with the highest and lowest residential electricity rates.
+**Data Cleaning**: Extracted New York data and grouped it by county. <br />
+**EDA**: Determined the counties with the highest and lowest residential electricity rates. <br />
 **Visualization**: Created a heat map of New York state with associated residential electricity rates.
 
 ## Results
