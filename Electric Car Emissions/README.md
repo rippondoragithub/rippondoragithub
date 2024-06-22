@@ -22,7 +22,7 @@ The datasets used in this project include data on the electricity generation and
 
 - The top states with the best electricity mix and thus the lowest annual carbon emissions for electric vehicles are Vermont, Washington, Oregon, New Hampshire and Idaho.
 - The state with the highest number of years needed to drive an all-electric car to offset production emissions was West Virginia, with 2.8 years needed.
-- If electric cars were to be adopted with a mix of 50% All-electric vehicles, 20% Plug-in Hybrid Vehicles, 15% Hybrid Vehicles and 15% Gasoline Vehicles, there would be a reduction of 8-9 trillion lbs. CO2 which is over half of the carbon emissions reported in 2022.
+- If electric cars were to be adopted with a mix of 50% All-electric vehicles, 20% Plug-in Hybrid Vehicles, 15% Hybrid Vehicles and 15% Gasoline Vehicles, there would be a reduction of about 6 trillion lbs. CO2 in 5 years which represents about 9% of national carbon emissions.
 
 ## Usage 
 
