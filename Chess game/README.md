@@ -43,7 +43,7 @@ Castling has several conditions:
 - Board Representation: The board is represented using a 2D array to manage the positions of the pieces. </br>
 - Game Logic: The game logic, including move validation, check/checkmate detection, and special rules. </br>
 - User Interface: The graphical user interface (GUI) is built using pygame. </br>
-###Highlights
+### Highlights
 - Robust Move Validation: Ensures all moves comply with chess rules, including special moves like castling and en passant. </br>
 - Real-Time Move Updates: The board updates in real-time to reflect the current game state. </br>
 - Move History Tracking: Keeps a record of all moves made during the game for review and analysis. </br>
