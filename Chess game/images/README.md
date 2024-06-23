@@ -1,0 +1,1 @@
+Please find all piece images here for the chess game. Upload them into Jupyter Notebook to play the game.  Make sure the names are the same as how they are called in the PIECES code in 'Chess Game.ipynb'.
