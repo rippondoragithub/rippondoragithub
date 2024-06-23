@@ -1,6 +1,6 @@
 # Chess Game
 
-Welcome to the Chess Game project! This project is a fully-featured chess game developed in [Your Preferred Language/Framework]. It supports human vs. human gameplay, including all standard chess rules and features.
+Welcome to the Chess Game project! This project is a fully-featured chess game developed in Python. It supports human vs. human gameplay, including all standard chess rules and features.
 
 ## Features
 
