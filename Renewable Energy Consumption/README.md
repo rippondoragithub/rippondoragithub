@@ -1,4 +1,4 @@
-# Berkshire Hathaway Finanical Analysis
+# Renewable Energy Consumption
 
 ## Description
 
@@ -19,7 +19,7 @@ The dataset used in this project includes renewable energy conumption from 1973 
 ## Results
 
 - The renewable energy sources biomass and wood energy had the highest mean of consumption.
-- Solar Energy and Wind Energy consumption have a correlation with a r-squared value of 0.514.
+- Solar Energy and Wind Energy consumption have a correlation with a r-squared value of 0.514. Using a polynomial regression model, the Mean Squared Error was able to be reduced to 55.887.
 
 
 ## Usage 
@@ -28,4 +28,4 @@ To run this analysis, open the 'Renewable Energy Consumption.ipynb' notebook and
 
 ## References
 
-Source of dataset: [https://www.sec.gov/edgar/searchedgar/companysearch](https://www.kaggle.com/datasets/alistairking/renewable-energy-consumption-in-the-u-s/data)
+Source of dataset: (https://www.kaggle.com/datasets/alistairking/renewable-energy-consumption-in-the-u-s/data)
